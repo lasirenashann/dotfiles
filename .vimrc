@@ -102,23 +102,6 @@ let g:tmuxline_powerline_separators = 0
 " let g:webdevicons_conceal_nerdtree_brackets = 1
 " let g:webdevicons_enable = 1
 
-" Song
-let g:was_time=0
-function MyHandler(timer)
-    silent let g:song_deets = split(join(systemlist('~/spotify.applescript'),","),",")
-    let g:time_left = str2nr(g:song_deets[2])*1000
-    if g:time_left != 0
-        let g:airline_section_y = join(g:song_deets[:1],",")
-        let timer = timer_start(g:time_left+2000, 'MyHandler')
-        let g:was_time=1
-    else
-        let g:airline_section_y = join(g:song_deets[1:1],",")
-        let timer = timer_start(90000, 'MyHandler')
-    endif
-endfunction
-call MyHandler(20)
-
-
 " Nerd Tree settings
 " Close vim if only nerdtree window is present
 autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
