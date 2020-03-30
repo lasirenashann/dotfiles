@@ -105,7 +105,7 @@ let g:tmuxline_powerline_separators = 0
 " Song
 let g:was_time=0
 function MyHandler(timer)
-    silent let g:song_deets = split(join(systemlist('~/spotify.applescript'),","),",")
+    silent let g:song_deets = split(join(systemlist('~/dotfiles/spotify.applescript'),","),",")
     let g:time_left = str2nr(g:song_deets[2])*1000
     if g:time_left != 0
         let g:airline_section_y = join(g:song_deets[:1],",")
