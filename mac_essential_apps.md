@@ -24,7 +24,7 @@
 - iTerm
 - [Itsycal](https://www.mowglii.com/itsycal/)
     - A menu bar app which displays a tiny calendar
-- [iLyricsX](https://github.com/ddddxxx/LyricsX)
+- [LyricsX](https://github.com/ddddxxx/LyricsX)
     - A cool lyrics plugin for iTunes, Spotify and Vox that autosearch and download the lyrics of the song currently being played
     - Display in a window or karaoke mode
 - [Meteorologist](https://heat-meteo.sourceforge.io/)
@@ -44,5 +44,6 @@
 - [Streaker](https://github.com/jamieweavis/streaker#readme)
     - A menu bar app that tracks your GitHub contribution stats
 - Telegram Lite
-- Vimac
+- [Vimac](https://github.com/dexterleng/vimac/)
+    - Probably not really essential but a nice addition nonetheless
 
