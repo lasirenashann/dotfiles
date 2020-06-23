@@ -2,21 +2,35 @@
 
 - [Alfred](https://www.alfredapp.com/)
     - An app that acts like spotlight search but 100x better
-- AppCleaner
+- [AppCleaner](https://freemacsoft.net/appcleaner/)
+    - An essential app that helps removing unwanted apps thoroughly
 - Amphetamine
-- BearedSpice
-- CheatSheet
-- Desktop Dimmer
-- ExternalDisplayBrightness
-- Grayscale Mode
-- Hidden Bar
-    - Alternatively, Dozer
+- [BeardedSpice](https://beardedspice.github.io/)
+    - A menu bar app allowing you to control media players (e.g., Spotify, Netflix, YouTube, and many more) using custom shortcuts
+- [CheatSheet](https://www.cheatsheetapp.com/CheatSheet/)
+    - An app that displays a cheatsheet of shortcuts of the current app by pressing the command key
+- [Desktop Dimmer](https://github.com/sidneys/desktop-dimmer)
+    - Add a black overlay on desktop
+    - Suitable when watching videos on one monitor
+    - It is not being maintained though
+- [ExternalDisplayBrightness](https://github.com/fnesveda/ExternalDisplayBrightness)
+    - Allows direct control of display brightness using custom keyboard shortcuts
+- [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode)
+    - A menu bar app that allows you to toggle grayscale mode either through the menu bar or a configurable shortcut
+    - (Supposedly) great for productivity
+- [Hidden Bar](https://github.com/dwarvesf/hidden)
+    - A menu bar app that lets you hide menu bar items for a cleaner look
+    - Alternatively, [Dozer](https://github.com/Mortennn/Dozer)
 - iTerm
-- Itsycal
-- LyricsX
+- [Itsycal](https://www.mowglii.com/itsycal/)
+    - A menu bar app which displays a tiny calendar
+- [iLyricsX](https://github.com/ddddxxx/LyricsX)
+    - A cool lyrics plugin for iTunes, Spotify and Vox that autosearch and download the lyrics of the song currently being played
+    - Display in a window or karaoke mode
 - [Meteorologist](https://heat-meteo.sourceforge.io/)
     - A free menu bar app that displays weather
-- MonitorControl
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl)
+    - A menu bar app that allows adjusting for monitor brightness, contrast or volume from a menulet
 - [Mos](https://github.com/Caldis/Mos)
     - A free app that implements smooth scrolling
 - Multi Monitor Wallpaper
