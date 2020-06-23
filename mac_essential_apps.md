@@ -1,6 +1,7 @@
 # My Mac Essential Apps
 
-- Alfred
+- [Alfred](https://www.alfredapp.com/)
+    - An app that acts like spotlight search but 100x better
 - AppCleaner
 - Amphetamine
 - BearedSpice
@@ -13,17 +14,21 @@
 - iTerm
 - Itsycal
 - LyricsX
-- Meteorologist
+- [Meteorologist](https://heat-meteo.sourceforge.io/)
+    - A free menu bar app that displays weather
 - MonitorControl
-- Mos
+- [Mos](https://github.com/Caldis/Mos)
+    - A free app that implements smooth scrolling
 - Multi Monitor Wallpaper
 - PDF Expert
-- Rectangle
+- [Rectangle](https://github.com/rxhanson/Rectangle)
+    - A free window management app
 - Silicio
 - Slack
 - Spark
 - Spotify
-- Streaker
+- [Streaker](https://github.com/jamieweavis/streaker#readme)
+    - A menu bar app that tracks your GitHub contribution stats
 - Telegram Lite
 - Vimac
 
