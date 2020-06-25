@@ -9,7 +9,11 @@
 - [indentLine](https://github.com/Yggdroot/indentLine): `git clone https://github.com/Yggdroot/indentLine.git ~/.vim/bundle/indentLine`
 - [tmuxline.vim](https://github.com/edkolev/tmuxline.vim): `git clone https://github.com/edkolev/tmuxline.vim ~/.vim/bundle/tmuxline.vim`
 
+## Zsh
+- [Bullet Train](https://github.com/caiogondim/bullet-train.zsh) for oh-my-zsh
+
 ## Tmux plugins
 - [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm): ```git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm```
 - [Tmux Themepack](https://github.com/jimeh/tmux-themepack)
+- [Maglev](https://github.com/caiogondim/maglev)
 
