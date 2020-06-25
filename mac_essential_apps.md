@@ -22,6 +22,8 @@
     - A menu bar app that lets you hide menu bar items for a cleaner look
     - Alternatively, [Dozer](https://github.com/Mortennn/Dozer)
 - iTerm
+- [Jupyter Notebook Viewer](https://github.com/tuxu/nbviewer-app)
+    - Not important but might come in handy sometimes
 - [Itsycal](https://www.mowglii.com/itsycal/)
     - A menu bar app which displays a tiny calendar
 - [LyricsX](https://github.com/ddddxxx/LyricsX)
