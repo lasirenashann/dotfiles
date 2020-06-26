@@ -10,7 +10,9 @@
 - [tmuxline.vim](https://github.com/edkolev/tmuxline.vim): `git clone https://github.com/edkolev/tmuxline.vim ~/.vim/bundle/tmuxline.vim`
 
 ## Zsh
-- [Bullet Train](https://github.com/caiogondim/bullet-train.zsh) for oh-my-zsh
+- [Powerlevel10k](https://github.com/romkatv/powerlevel10k#oh-my-zsh)
+- Plugins
+    - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md)
 
 ## Tmux plugins
 - [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm): ```git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm```
